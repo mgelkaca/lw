@@ -1,2 +1,19 @@
-# lw
-მხოლოდ მგლები და ვოლკები დაიშვებიან📿
+
+body{
+  background-color: #EAF6F6;
+}
+
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
